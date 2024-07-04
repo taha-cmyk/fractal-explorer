@@ -328,8 +328,8 @@ const FractalExplorer = () => {
                   4. Click and drag to move around the fractal.<br />
                   5. Use the color scheme selector to change the visualization.<br />
                   6. For Julia set, adjust the Real and Imaginary parameters.<br />
-                  7. Click "Reset View" to return to the initial state.<br />
-                  8. Use "Export" to save your creation as a PNG file.<br />
+                  7. Click &quot;Reset View&quot; to return to the initial state.<br />
+                  8. Use &quot;Export&quot; to save your creation as a PNG file.<br />
                   Explore and enjoy the mesmerizing world of fractals!
                 </AlertDialogDescription>
               </AlertDialogHeader>
